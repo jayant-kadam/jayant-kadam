@@ -53,7 +53,6 @@ Performed data cleaning using Power Query by handling null values, removing inco
 View Dashboard
 </a>
 
----
 
 ## 🌍 Global Store Report
 
@@ -66,6 +65,8 @@ Applied data cleansing, data analysis, and data visualization techniques to tran
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTFkZmMzOGYtNjEyYS00YTczLTlmMjYtMjhiZmU5ZTAyNTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">
 View Dashboard
 </a>
+
+---
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
